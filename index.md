@@ -6,4 +6,18 @@
 
 ![Image of Manitou Incline](http://www.bouty.me/images/incline.jpg)
 
+###### C# code
+``` c#
+var test1 = "a string";
+int? myVal = null;
+var val2 = 101;
+```
+
+###### Javascript code
+``` javascript
+var test1 = "a string";
+var myVal = null;
+var val2 = 101;
+```
+
 Is it expecting some stuff here
